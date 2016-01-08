@@ -1,0 +1,35 @@
+$icon-font-path: "/bower_components/bootstrap-sass-official/assets/fonts/bootstrap/";
+
+@import 'bootstrap';
+@import 'bootswatch';
+
+.header {
+  padding: 5em;
+}
+
+.footer {
+  padding: 5em;
+}
+
+.error {
+  color: red;
+}
+
+.personal-data-form {
+  width: 40em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bank-data-form {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 2em;
+  margin-bottom: 1em;
+}
+
+.bank-data-collection-form {
+  width: 50em;
+  margin-left: auto;
+  margin-right: auto;
+}

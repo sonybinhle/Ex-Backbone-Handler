@@ -1,0 +1,12 @@
+{
+  "generator-backbone": {
+    "appPath": "app",
+    "appName": "BankAccount",
+    "testFramework": "jasmine",
+    "templateFramework": "handlebars",
+    "sassBootstrap": true,
+    "coffee": false,
+    "includeRequireJS": true
+  },
+  "generator-jasmine": {}
+}

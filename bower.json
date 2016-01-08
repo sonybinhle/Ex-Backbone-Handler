@@ -1,0 +1,16 @@
+{
+  "name": "bank-account",
+  "version": "0.0.0",
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.1",
+    "jquery": "~2.1.0",
+    "backbone": "~1.1.0",
+    "requirejs": "~2.1.10",
+    "requirejs-text": "~2.0.10",
+    "lodash": "~2.4.1",
+    "handlebars": "~4.0.5",
+    "text": "requirejs/text#~2.0.14",
+    "backbone.localStorage": "backbone.localstorage#~1.1.16"
+  },
+  "devDependencies": {}
+}
